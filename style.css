@@ -1,0 +1,33 @@
+.headert{
+    margin-top: 0%;
+    font-family: cursive;
+    width:100%;
+    font-size: large;
+}
+
+.note{
+    font-size: medium;
+    background-color: rgb(25, 49, 186);
+    width: 100%;
+}
+
+body{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0%;
+    text-align: center;
+    background-color: blue;
+    line-height: 3;
+    font-size: large;
+}
+
+canvas{
+    border: 5px darkblue dashed;
+    border-radius: 20px;
+}
